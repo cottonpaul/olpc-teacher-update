@@ -95,8 +95,8 @@ page
 ."                                                   " cr 
 ."                                                   " cr 
 ."  WARNING: Updating this OS (Operating System) image will erase all data on " cr
-."  this xo. Please ensure you back-up any important files before proceeding. " cr
-."  It is also recomended you connect your devices charger for this update." cr cr
+."  this XO. Please ensure you back-up any important files before proceeding. " cr
+."  It's also recommended that you connect your device's charger for this update." cr cr
  
 ."  If you do not wish to update your XO OS image right now you should: " cr
 ."   1.  Remove the USB stick from the XO device." cr
@@ -122,13 +122,13 @@ page
 ."  =============================================================================" cr
 ."                                                                            " cr
 ."                                                            _____           " cr
-."   Your OS image  was successfully updated!              .-'     '-.        " cr
+."   Your OS image was successfully updated!               .-'     '-.        " cr
 ."                                                       .'           `.      " cr
 ."                                                      /   .      .    \     " cr
 ."    To start using your device, you should:          :                 :    " cr
 ."     1. Remove the USB stick from the XO device.     |                 |    " cr
 ."     2. Hold down the power button until the XO      :   \        /    :    " cr
-."        device is completly turned off.               \   `.____.'    /     " cr
+."        device is completely turned off.              \   `.____.'    /     " cr
 ."     3. Press the power button to restart the device.  `.           .'      " cr
 ."                                                         `-._____.-'        " cr
 ."                                                                            " cr 
